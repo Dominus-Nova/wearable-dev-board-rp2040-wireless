@@ -1,3 +1,7 @@
 (fp_lib_table
   (lib (name "edge tabs")(type "KiCad")(uri "${KIPRJMOD}/libraries/edge pads")(options "")(descr ""))
+  (lib (name "usb-c  footprint")(type "KiCad")(uri "${KIPRJMOD}/libraries/usb-c  footprint")(options "")(descr ""))
+  (lib (name "ABLS-12")(type "KiCad")(uri "${KIPRJMOD}/libraries/ABLS-12.000MHZ-B4-T")(options "")(descr ""))
+  (lib (name "ECS-160-9-42-CKM-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ECS-160-9-42-CKM-TR")(options "")(descr ""))
+  (lib (name "coaxial conn")(type "KiCad")(uri "${KIPRJMOD}/libraries/coaxial conn")(options "")(descr ""))
 )
