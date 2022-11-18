@@ -4,4 +4,5 @@
   (lib (name "ABLS-12")(type "KiCad")(uri "${KIPRJMOD}/libraries/ABLS-12.000MHZ-B4-T")(options "")(descr ""))
   (lib (name "ECS-160-9-42-CKM-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ECS-160-9-42-CKM-TR")(options "")(descr ""))
   (lib (name "coaxial conn")(type "KiCad")(uri "${KIPRJMOD}/libraries/coaxial conn")(options "")(descr ""))
+  (lib (name "MPU-6500")(type "KiCad")(uri "${KIPRJMOD}/libraries/MPU-6500/MPU-6500.pretty")(options "")(descr ""))
 )
