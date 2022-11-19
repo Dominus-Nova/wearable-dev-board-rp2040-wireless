@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "MPU-6500")(type "KiCad")(uri "${KIPRJMOD}/libraries/MPU-6500/MPU-6500.kicad_sym")(options "")(descr ""))
+  (lib (name "EMPCB.SMAFSTJ.B.HT")(type "KiCad")(uri "${KIPRJMOD}/libraries/EMPCB.SMAFSTJ.B.HT/EMPCB.SMAFSTJ.B.HT.kicad_sym")(options "")(descr ""))
 )

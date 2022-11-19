@@ -5,4 +5,7 @@
   (lib (name "ECS-160-9-42-CKM-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ECS-160-9-42-CKM-TR")(options "")(descr ""))
   (lib (name "coaxial conn")(type "KiCad")(uri "${KIPRJMOD}/libraries/coaxial conn")(options "")(descr ""))
   (lib (name "MPU-6500")(type "KiCad")(uri "${KIPRJMOD}/libraries/MPU-6500/MPU-6500.pretty")(options "")(descr ""))
+  (lib (name "LIB_NRF24L01P-R7")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_NRF24L01P-R7")(options "")(descr ""))
+  (lib (name "LIB_TPD4E02B04QDQARQ1")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_TPD4E02B04QDQARQ1")(options "")(descr ""))
+  (lib (name "EMPCB.SMAFSTJ.B")(type "KiCad")(uri "${KIPRJMOD}/libraries/EMPCB.SMAFSTJ.B.HT")(options "")(descr ""))
 )
