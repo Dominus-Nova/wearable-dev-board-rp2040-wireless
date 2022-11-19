@@ -5483,10 +5483,10 @@
     (pin "1" (uuid 58ec5fd6-bd1b-461e-b5cd-7d2af1b9184a))
   )
 
-  (symbol (lib_id "Switch:SW_SPST") (at 151.13 114.3 0) (unit 1)
+  (symbol (lib_id "Switch:SW_SPST") (at 151.13 114.3 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 3e07e31b-7cbf-4a00-8fa5-8a976593822a)
-    (property "Reference" "SW2" (id 0) (at 154.94 113.03 0))
+    (property "Reference" "SW2" (id 0) (at 147.32 113.03 0))
     (property "Value" "power Switch" (id 1) (at 151.13 110.49 0))
     (property "Footprint" "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" (id 2) (at 151.13 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
