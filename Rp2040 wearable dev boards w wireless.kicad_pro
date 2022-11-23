@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|44170000|92292500|a39fe7c9-6fea-4ae5-8be0-c56fb63f0099|7abf7e07-62b3-4e7a-bac3-97db2ed65600",
+        "malformed_courtyard|46891799|46168400|410cf91d-c5ba-4915-b443-ee1e15f62152|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -411,7 +414,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
+        "track_width": 0.3,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -455,7 +458,6 @@
           "/GPIO 12",
           "/GPIO 13",
           "/GPIO 14",
-          "/GPIO 15",
           "/GPIO 16",
           "/GPIO 17",
           "/GPIO 2",
@@ -469,7 +471,6 @@
           "/IMU SCL {slash} GPIO 19",
           "/IMU SDA {slash} GPIO 18",
           "/IREF",
-          "/IRQ",
           "/LED_BLUE",
           "/LED_GREEN",
           "/MISO",
