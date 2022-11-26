@@ -1,6 +1,5 @@
 (fp_lib_table
   (lib (name "edge tabs")(type "KiCad")(uri "${KIPRJMOD}/libraries/edge pads")(options "")(descr ""))
-  (lib (name "usb-c  footprint")(type "KiCad")(uri "${KIPRJMOD}/libraries/usb-c  footprint")(options "")(descr ""))
   (lib (name "ABLS-12")(type "KiCad")(uri "${KIPRJMOD}/libraries/ABLS-12.000MHZ-B4-T")(options "")(descr ""))
   (lib (name "ECS-160-9-42-CKM-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ECS-160-9-42-CKM-TR")(options "")(descr ""))
   (lib (name "coaxial conn")(type "KiCad")(uri "${KIPRJMOD}/libraries/coaxial conn")(options "")(descr ""))
@@ -8,4 +7,5 @@
   (lib (name "LIB_NRF24L01P-R7")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_NRF24L01P-R7")(options "")(descr ""))
   (lib (name "LIB_TPD4E02B04QDQARQ1")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIB_TPD4E02B04QDQARQ1")(options "")(descr ""))
   (lib (name "EMPCB.SMAFSTJ.B")(type "KiCad")(uri "${KIPRJMOD}/libraries/EMPCB.SMAFSTJ.B.HT")(options "")(descr ""))
+  (lib (name "usb-c")(type "KiCad")(uri "${KIPRJMOD}/libraries/usb-c")(options "")(descr ""))
 )

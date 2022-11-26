@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "MPU-6500")(type "KiCad")(uri "${KIPRJMOD}/libraries/MPU-6500/MPU-6500.kicad_sym")(options "")(descr ""))
   (lib (name "EMPCB.SMAFSTJ.B.HT")(type "KiCad")(uri "${KIPRJMOD}/libraries/EMPCB.SMAFSTJ.B.HT/EMPCB.SMAFSTJ.B.HT.kicad_sym")(options "")(descr ""))
+  (lib (name "usb-c usb 2.0")(type "KiCad")(uri "${KIPRJMOD}/libraries/usb-c/DX07S016JA1R1500.kicad_sym")(options "")(descr ""))
 )
