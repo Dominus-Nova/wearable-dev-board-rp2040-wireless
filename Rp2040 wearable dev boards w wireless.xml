@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\techd\Documents\electronics\Rp2040 wearable dev boards w wireless\Rp2040 wearable dev boards w wireless.kicad_sch</source>
+    <date>29/11/2022 3:02:59 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>main</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Rp2040 wearable dev boards w wireless.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>27p</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">445-7173-6-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="445-7173-6-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1932916-e503-43a9-b279-c36e953d7733</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>27p</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">445-7173-6-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="445-7173-6-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fcfec4f-b97b-4efd-aff4-6468b2e92928</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86184825-b747-4409-b107-efec49c99722</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">478-7862-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="478-7862-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03ba515c-8c19-4aa7-bd82-7954028952e5</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-GRM155R60J106ME05JCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-GRM155R60J106ME05JCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edb16629-8883-4342-9e2c-86d021c08aff</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae860634-649e-4339-b67b-e1c8c8b551dd</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bdfc1a5-d726-4ebc-af5e-f4cf9a844327</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-GRM155R60J106ME05JCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-GRM155R60J106ME05JCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e7313ca-0faf-4d07-87cf-ef3817c1e7b7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-GRM155R60J106ME05JCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-GRM155R60J106ME05JCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97808344-0d83-48e5-84f7-a151232615bd</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7765d87e-1625-4286-a219-778873187664</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_5x5.3</footprint>
+      <fields>
+        <field name="Digikey Part  Number">732-6416-6-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Digikey Part  Number" value="732-6416-6-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32e73847-bfde-43b7-8aab-266e94be6b6d</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac45ce68-1d31-4547-b918-12929cb4f0cc</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6044db9-505c-4c31-9f38-c37ea34c3942</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>718aeb9e-eaac-45fb-aff9-7b30fbbd8583</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>482f42b6-552b-4b17-934d-3ab44ad822b0</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a9119dc-cd68-4835-8443-4e6df5ab9261</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>959722ec-8c30-4294-aac3-6abe1b2a0fa2</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0323e6f3-a37f-44df-8d07-7c0cda7ce12c</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_5x5.3</footprint>
+      <fields>
+        <field name="Digikey Part  Number">732-6416-6-ND</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Digikey Part  Number" value="732-6416-6-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a4e7fcf-c820-4775-8436-b892409b0675</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">478-7862-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="478-7862-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba10578c-bcc5-4bbc-8baf-2e43b42872f5</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.2u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">478-12814-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="478-12814-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e71c377f-23b3-4cbb-aaed-825dcd810e43</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-13319-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-13319-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce145949-2929-43a3-b118-7c2b8b351892</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee5bce48-457f-46f0-994e-153c93f05e3a</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>14p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-GJM1555C1H140FB01DCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-GJM1555C1H140FB01DCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4860e882-8657-4b02-8798-a33694e31dbe</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>14p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-GJM1555C1H140FB01DCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-GJM1555C1H140FB01DCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be99e48d-5d44-4a1a-b532-81fe51ce5b96</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-13319-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-13319-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59a1c1e1-db69-4b55-b151-8529d5858271</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-GRM022R71C102KE14LCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-GRM022R71C102KE14LCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f715469c-8083-4841-9370-a16b38650fa9</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>33n</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-9977-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-9977-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>931bc61e-d420-4dd8-a259-d850a7226341</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>2n2</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-7164-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-7164-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56f1467b-8368-4f4c-b2b5-fb61aed21a74</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>4p7</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-13585-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-13585-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26f243d8-b75f-4f15-889b-a2af94292fff</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>1p5</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-13488-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-13488-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4104e8e-f5d3-49ba-a698-f51d42ef00a4</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>1p</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-13474-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-13474-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6ff82e0-148f-4d6a-93c8-4fc31c938fba</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-3167-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Digikey Part  Number" value="490-3167-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cba7832-a261-4694-8aa3-456136ac7697</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED_BLUE</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">160-1827-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Digikey Part  Number" value="160-1827-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32f81e21-7e20-4fcb-830a-d99bd68ed217</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="Digikey Part  Number">641-1690-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Digikey Part  Number" value="641-1690-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81df70d0-71ae-448b-b85f-e7005b035f87</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED_YELLOW</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">160-1448-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Digikey Part  Number" value="160-1448-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41647633-63da-40ec-8008-505bb87291a5</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED_GREEN</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">160-1446-1-ND</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Digikey Part  Number" value="160-1446-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f9e2de6-e0db-47ab-ae95-5fd91b5616b1</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>NRF24L01P-R7</value>
+      <footprint>LIB_NRF24L01P-R7:QFN50P400X400X95-21N-D</footprint>
+      <datasheet>https://www.mouser.com/ds/2/297/nRF24L01P-1187709.pdf</datasheet>
+      <fields>
+        <field name="Description">NORDIC SEMICONDUCTOR - NRF24L01P-R7 - RF TRANSCEIVER, 2MBPS, 2.525GHZ, QFN-20</field>
+        <field name="Digikey Part  Number">1490-1033-1-ND</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Nordic Semiconductor</field>
+        <field name="Manufacturer_Part_Number">NRF24L01P-R7</field>
+        <field name="Mouser Part Number">949-NRF24L01P-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nRF24L01P-R7?qs=yd0qOhnSiDe8zMRXiZkGiQ%3D%3D</field>
+      </fields>
+      <libsource lib="NRF24L01P-R7" part="NRF24L01P-R7" description="NORDIC SEMICONDUCTOR - NRF24L01P-R7 - RF TRANSCEIVER, 2MBPS, 2.525GHZ, QFN-20"/>
+      <property name="Description" value="NORDIC SEMICONDUCTOR - NRF24L01P-R7 - RF TRANSCEIVER, 2MBPS, 2.525GHZ, QFN-20"/>
+      <property name="Height" value="0.95"/>
+      <property name="Manufacturer_Name" value="Nordic Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="NRF24L01P-R7"/>
+      <property name="Mouser Part Number" value="949-NRF24L01P-R7"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nRF24L01P-R7?qs=yd0qOhnSiDe8zMRXiZkGiQ%3D%3D"/>
+      <property name="Arrow Part Number" value=""/>
+      <property name="Arrow Price/Stock" value=""/>
+      <property name="Mouser Testing Part Number" value=""/>
+      <property name="Mouser Testing Price/Stock" value=""/>
+      <property name="Digikey Part  Number" value="1490-1033-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acd77fd7-41c6-47b5-8b88-a51f6aec934f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>battery plug </value>
+      <footprint>Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://core-electronics.com.au/polymer-lithium-ion-battery-1000mah-38458.html</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">455-1749-1-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey Part  Number" value="455-1749-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eecacd53-e80f-4372-a767-098fd0814a26</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>DX07S016JA1R1500</value>
+      <footprint>JAE_DX07S016JA1R1500</footprint>
+      <fields>
+        <field name="Digikey Part  Number">670-DX07S016JA1R1500CT-ND</field>
+        <field name="MANUFACTURER">JAE Industry Ltd.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31 mm</field>
+        <field name="PARTREV">1</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="usb-c usb 2.0" part="DX07S016JA1R1500" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.31 mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="JAE Industry Ltd."/>
+      <property name="PARTREV" value="1"/>
+      <property name="Digikey Part  Number" value="670-DX07S016JA1R1500CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f45a415-c8e3-4535-9fec-7d0323a7c17c</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x20</value>
+      <footprint>Connector_FFC-FPC:TE_2-84952-0_1x20-1MP_P1.0mm_Horizontal</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=84952&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">A100319CT-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x20" description="Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey Part  Number" value="A100319CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d8fc656-aa09-40c8-84da-df05aadf5d15</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x20</value>
+      <footprint>Connector_FFC-FPC:TE_2-84952-0_1x20-1MP_P1.0mm_Horizontal</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=84952&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">A100319CT-ND</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x20" description="Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Digikey Part  Number" value="A100319CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00e2bcc7-85dd-4ca5-9c6c-b62856a6b343</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>EMPCB.SMAFSTJ.B.HT</value>
+      <footprint>TAOGLAS_EMPCB.SMAFSTJ.B.HT</footprint>
+      <fields>
+        <field name="Digikey Part  Number">931-1175-ND</field>
+        <field name="MANUFACTURER">TAOGLAS</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+      </fields>
+      <libsource lib="EMPCB.SMAFSTJ.B.HT" part="EMPCB.SMAFSTJ.B.HT" description=""/>
+      <property name="MANUFACTURER" value="TAOGLAS"/>
+      <property name="STANDARD" value="Manufacturer Recommendation"/>
+      <property name="Digikey Part  Number" value="931-1175-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b90eba54-a2c0-4abe-9681-85b3b2ee653b</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>8n2</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-6849-1-ND</field>
+      </fields>
+      <libsource lib="pspice" part="INDUCTOR" description="Inductor symbol for simulation only"/>
+      <property name="Digikey Part  Number" value="490-6849-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbb1ee06-3bc3-4e70-8d07-d97f88bcbbf0</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>3n9</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-6813-1-ND</field>
+      </fields>
+      <libsource lib="pspice" part="INDUCTOR" description="Inductor symbol for simulation only"/>
+      <property name="Digikey Part  Number" value="490-6813-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>773490bb-c1be-4b87-a4eb-fe2a8a06c933</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>2n7</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">490-6799-1-ND</field>
+      </fields>
+      <libsource lib="pspice" part="INDUCTOR" description="Inductor symbol for simulation only"/>
+      <property name="Digikey Part  Number" value="490-6799-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54bb1f4e-a336-494c-af98-10faa2e9e6eb</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Si2301</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Digikey Part  Number">353-SI2301A-TPCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="Q_PMOS_GSD" description="P-MOSFET transistor, gate/source/drain"/>
+      <property name="Digikey Part  Number" value="353-SI2301A-TPCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30e34c8a-1125-4429-8576-31921a3c4c5c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-1.0KJRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-1.0KJRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99a1c567-2e94-42c0-bcb5-86e3689fb112</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ad5ec2f-76e1-42b7-ac6c-49137dc3961d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-10KJRCT-ND </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-10KJRCT-ND "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b11795a-0b36-422e-b237-3549a843c280</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-10KJRCT-ND </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-10KJRCT-ND "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f72fe32b-44a4-4a49-a284-336075ab31ba</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">13-RC0402FR-13100KLCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="13-RC0402FR-13100KLCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>353de25b-b382-4cf9-ad63-e7ce7b6833cd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>27.4</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG3085CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG3085CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa3c5d8a-6c7f-406d-93cc-4e2c96aa58ba</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>27.4</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG3085CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG3085CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba36582e-29f9-4607-9d36-e959f2725ca1</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">13-RC0402FR-135K1LCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="13-RC0402FR-135K1LCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>782802ae-88f0-493f-bba1-207632bb3d65</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>5.1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">13-RC0402FR-135K1LCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="13-RC0402FR-135K1LCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c78febde-2063-4743-9961-e5c72f071099</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-330JRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-330JRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4df2aa83-28ad-49a5-8d29-dea8b0eada16</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b41ccc53-152f-4898-8730-7b3768ac122f</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e7bd0d2-2075-496c-ac46-bb32aeec98b3</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-1.0MJRCT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-1.0MJRCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60ae1181-8bde-4c58-9ab7-3f0233200dff</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-22.0KLRCT-ND </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-22.0KLRCT-ND "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7823bce-6a38-4863-8ad5-d1718a3ff0ef</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>222d95f3-e7cf-4ff5-9f77-071cbf847be5</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df41e100-6a5a-4dda-b7e5-9bc601420241</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4e29422-ed94-4bbf-a73e-3ff58adef8f3</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">311-0.0LRCT-ND </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="311-0.0LRCT-ND "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>926d52cf-8075-4473-8869-be336abef7f1</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Digikey Part  Number">YAG2303CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Digikey Part  Number" value="YAG2303CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44cac171-8875-4d5d-8407-e8e65caa3547</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>B3U-1100P</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1100P</footprint>
+      <fields>
+        <field name="Digikey Part  Number">SW1021CT-ND</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Digikey Part  Number" value="SW1021CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b43026f-9599-44ad-9691-8c4a0d288de4</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>power Switch</value>
+      <footprint>Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Digikey Part  Number">455-1749-1-ND</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="Digikey Part  Number" value="455-1749-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e07e31b-7cbf-4a00-8fa5-8a976593822a</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>3.3v test point</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="Digikey Part  Number">n/a</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey Part  Number" value="n/a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8846cd7-8d40-4d63-ba78-ae839d581297</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>rf test point</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <fields>
+        <field name="Digikey Part  Number">n/a</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Digikey Part  Number" value="n/a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64500dde-1651-45f2-9198-4d2d865b4df0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP73831T-4ADI/OT</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">MCP73831T-4ADI/OTCT-ND</field>
+      </fields>
+      <libsource lib="Battery_Management" part="MCP73832-2-OT" description="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package"/>
+      <property name="Digikey Part  Number" value="MCP73831T-4ADI/OTCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e09debc-dc36-4d7d-841a-f76cc6f36596</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>W25Q128JVS</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">W25Q128JVSIMCT-ND</field>
+      </fields>
+      <libsource lib="Memory_Flash" part="W25Q128JVS" description="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="Digikey Part  Number" value="W25Q128JVSIMCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dafceb58-5450-4f19-b16d-84603c02cefd</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TPD4E02B04QDQARQ1</value>
+      <footprint>LIB_TPD4E02B04QDQARQ1:TPD4E02B04QDQARQ1</footprint>
+      <fields>
+        <field name="Digikey Part  Number">296-48995-1-ND</field>
+      </fields>
+      <libsource lib="TPD4E02B04QDQARQ1" part="TPD4E02B04QDQARQ1" description=""/>
+      <property name="Digikey Part  Number" value="296-48995-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17b8e984-e3f7-4fcf-9cd5-09b7ea265766</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>NCP1117-3.3_TO252</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">NCP1117LPST33T3GOSCT-ND</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="NCP1117-3.3_TO252" description="1A Low drop-out regulator, Fixed Output 3.3V, TO-252 (DPAK)"/>
+      <property name="Digikey Part  Number" value="NCP1117LPST33T3GOSCT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00976642-47a3-4124-b499-66ed9c3e3834</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>RP2040</value>
+      <footprint>Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">2648-SC0914(13)CT-ND</field>
+      </fields>
+      <libsource lib="MCU_RaspberryPi" part="RP2040" description="A microcontroller by Raspberry Pi"/>
+      <property name="Digikey Part  Number" value="2648-SC0914(13)CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccdd1266-dc76-406c-a364-69f8ab51981c</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>ADS7830</value>
+      <footprint>Package_SO:TSSOP-16_4.4x5mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/ads7830.pdf</datasheet>
+      <fields>
+        <field name="Digikey Part  Number">296-25899-1-ND</field>
+      </fields>
+      <libsource lib="Analog_DAC" part="ADS7830" description="Single-supply, 8bit, 8 ch, SAR, 70kHz SR, 2.7 - 5 VDD, I2C, TSSOP-16"/>
+      <property name="Digikey Part  Number" value="296-25899-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cb7f4bd-c777-4d24-a1be-b9a8ac248327</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MPU-6500</value>
+      <footprint>MPU-6500:MPU-6500</footprint>
+      <fields>
+        <field name="Digikey Part  Number">1428-1011-1-ND</field>
+      </fields>
+      <libsource lib="MPU-6500" part="MPU-6500" description=""/>
+      <property name="Digikey Part  Number" value="1428-1011-1-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a40ae0e9-e9fa-4be9-8141-e569b0dbc12e</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>445C25D12M00000</value>
+      <footprint>Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering</footprint>
+      <fields>
+        <field name="Digikey Part  Number">CTX1162CT-ND </field>
+      </fields>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Digikey Part  Number" value="CTX1162CT-ND "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3e1ad41-c908-4c3c-b64b-995bf5a206c2</tstamps>
+    </comp>
+    <comp ref="Y2">
+      <value>ECS-160-9-42-CKM-TR</value>
+      <footprint>ECS-160-9-42-CKM-TR:XTAL_ECS-160-9-42-CKM-TR</footprint>
+      <fields>
+        <field name="Digikey Part  Number">XC1611CT-ND</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Digikey Part  Number" value="XC1611CT-ND"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Rp2040 wearable dev boards w wireless.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b6c0a71-9453-4929-a786-30162c3871df</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Analog_DAC" part="ADS7830">
+      <description>Single-supply, 8bit, 8 ch, SAR, 70kHz SR, 2.7 - 5 VDD, I2C, TSSOP-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ads7830.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADS7830</field>
+        <field name="Footprint">Package_SO:TSSOP-16_4.4x5mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ads7830.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CH0" type="input"/>
+        <pin num="2" name="CH1" type="input"/>
+        <pin num="3" name="CH2" type="input"/>
+        <pin num="4" name="CH3" type="input"/>
+        <pin num="5" name="CH4" type="input"/>
+        <pin num="6" name="CH5" type="input"/>
+        <pin num="7" name="CH6" type="input"/>
+        <pin num="8" name="CH7" type="input"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="REFin/REFout" type="bidirectional"/>
+        <pin num="11" name="COM" type="input"/>
+        <pin num="12" name="A0" type="input"/>
+        <pin num="13" name="A1" type="input"/>
+        <pin num="14" name="SCL" type="input"/>
+        <pin num="15" name="SDA" type="bidirectional"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Battery_Management" part="MCP73832-2-OT">
+      <description>Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Open-Drain Status Output, in SOT23-5 package</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP73832-2-OT</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="STAT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="VBAT" type="power_out"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="PROG" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x20">
+      <description>Generic connector, single row, 01x20, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x20</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PMOS_GSD">
+      <description>P-MOSFET transistor, gate/source/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PMOS_GSD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EMPCB.SMAFSTJ.B.HT" part="EMPCB.SMAFSTJ.B.HT">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">EMPCB.SMAFSTJ.B.HT</field>
+        <field name="Footprint">TAOGLAS_EMPCB.SMAFSTJ.B.HT</field>
+        <field name="MANUFACTURER">TAOGLAS</field>
+        <field name="STANDARD">Manufacturer Recommendation</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="SH1" name="" type="passive"/>
+        <pin num="SH2" name="" type="passive"/>
+        <pin num="SH3" name="" type="passive"/>
+        <pin num="SH4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi" part="RP2040">
+      <description>A microcontroller by Raspberry Pi</description>
+      <docs>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</docs>
+      <footprints>
+        <fp>QFN*7x7mm?P0.4mm?EP3.2x3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="passive"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="input"/>
+        <pin num="20" name="XIN" type="input"/>
+        <pin num="21" name="XOUT" type="passive"/>
+        <pin num="22" name="IOVDD" type="passive"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="output"/>
+        <pin num="25" name="SWD" type="bidirectional"/>
+        <pin num="26" name="RUN" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="passive"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29_ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="passive"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_IN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="USB_DM" type="bidirectional"/>
+        <pin num="47" name="USB_DP" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="passive"/>
+        <pin num="50" name="DVDD" type="passive"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="output"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MPU-6500" part="MPU-6500">
+      <footprints>
+        <fp>QFN24_3X3X0P9_IVS</fp>
+        <fp>QFN24_3X3X0P9_IVS-M</fp>
+        <fp>QFN24_3X3X0P9_IVS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPU-6500</field>
+        <field name="Footprint">QFN24_3X3X0P9_IVS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="NC" type="no_connect"/>
+        <pin num="7" name="AUX_CL" type="unspecified"/>
+        <pin num="8" name="VDDIO" type="power_in"/>
+        <pin num="9" name="SDO/ADO" type="unspecified"/>
+        <pin num="10" name="REGOUT" type="unspecified"/>
+        <pin num="11" name="FSYNC" type="input"/>
+        <pin num="12" name="INT" type="output"/>
+        <pin num="13" name="VDD" type="power_in"/>
+        <pin num="14" name="NC" type="no_connect"/>
+        <pin num="15" name="NC" type="no_connect"/>
+        <pin num="16" name="NC" type="no_connect"/>
+        <pin num="17" name="NC" type="no_connect"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="RESV" type="no_connect"/>
+        <pin num="20" name="RESV" type="output"/>
+        <pin num="21" name="AUX_DA" type="unspecified"/>
+        <pin num="22" name="nCS" type="unspecified"/>
+        <pin num="23" name="SCL/SCLK" type="unspecified"/>
+        <pin num="24" name="SDA/SDI" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q128JVS">
+      <description>128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q128JVS</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="NRF24L01P-R7" part="NRF24L01P-R7">
+      <description>NORDIC SEMICONDUCTOR - NRF24L01P-R7 - RF TRANSCEIVER, 2MBPS, 2.525GHZ, QFN-20</description>
+      <docs>https://www.mouser.com/ds/2/297/nRF24L01P-1187709.pdf</docs>
+      <fields>
+        <field name="Reference">IC?</field>
+        <field name="Value">NRF24L01P-R7</field>
+        <field name="Footprint">QFN50P400X400X95-21N-D</field>
+        <field name="Datasheet">https://www.mouser.com/ds/2/297/nRF24L01P-1187709.pdf</field>
+        <field name="Description">NORDIC SEMICONDUCTOR - NRF24L01P-R7 - RF TRANSCEIVER, 2MBPS, 2.525GHZ, QFN-20</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Nordic Semiconductor</field>
+        <field name="Manufacturer_Part_Number">NRF24L01P-R7</field>
+        <field name="Mouser Part Number">949-NRF24L01P-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nRF24L01P-R7?qs=yd0qOhnSiDe8zMRXiZkGiQ%3D%3D</field>
+        <field name="Arrow Part Number">NRF24L01P-R7</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/nrf24l01p-r7/nordic-semiconductor?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CE" type="passive"/>
+        <pin num="2" name="CSN" type="passive"/>
+        <pin num="3" name="SCK" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="MISO" type="passive"/>
+        <pin num="6" name="IRQ" type="passive"/>
+        <pin num="7" name="VDD_1" type="passive"/>
+        <pin num="8" name="VSS_1" type="passive"/>
+        <pin num="9" name="XC2" type="passive"/>
+        <pin num="10" name="XC1" type="passive"/>
+        <pin num="11" name="VDD_PA" type="passive"/>
+        <pin num="12" name="ANT1" type="passive"/>
+        <pin num="13" name="ANT2" type="passive"/>
+        <pin num="14" name="VSS_2" type="passive"/>
+        <pin num="15" name="VDD_2" type="passive"/>
+        <pin num="16" name="IREF" type="passive"/>
+        <pin num="17" name="VSS_3" type="passive"/>
+        <pin num="18" name="VDD_3" type="passive"/>
+        <pin num="19" name="DVDD" type="passive"/>
+        <pin num="20" name="VSS_4" type="passive"/>
+        <pin num="21" name="THERMAL_PAD" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="NCP1117-3.3_TO252">
+      <description>1A Low drop-out regulator, Fixed Output 3.3V, TO-252 (DPAK)</description>
+      <docs>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCP1117-3.3_TO252</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-2</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPD4E02B04QDQARQ1" part="TPD4E02B04QDQARQ1">
+      <footprints>
+        <fp>DQA0010A</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPD4E02B04QDQARQ1</field>
+        <field name="Footprint">DQA0010A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1+" type="bidirectional"/>
+        <pin num="2" name="D1-" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="D2+" type="bidirectional"/>
+        <pin num="5" name="D2-" type="bidirectional"/>
+        <pin num="6" name="NC" type="unspecified"/>
+        <pin num="7" name="NC" type="unspecified"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="NC" type="unspecified"/>
+        <pin num="10" name="NC" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="INDUCTOR">
+      <description>Inductor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="usb-c usb 2.0" part="DX07S016JA1R1500">
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">DX07S016JA1R1500</field>
+        <field name="Footprint">JAE_DX07S016JA1R1500</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31 mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">JAE Industry Ltd.</field>
+        <field name="PARTREV">1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VBUS" type="power_in"/>
+        <pin num="3" name="CC1" type="passive"/>
+        <pin num="4" name="SBU2" type="passive"/>
+        <pin num="5" name="D-" type="passive"/>
+        <pin num="6" name="D+" type="passive"/>
+        <pin num="7" name="D+" type="passive"/>
+        <pin num="8" name="D-" type="passive"/>
+        <pin num="9" name="CC2" type="passive"/>
+        <pin num="10" name="SBU1" type="passive"/>
+        <pin num="11" name="VBUS" type="power_in"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+        <pin num="S5" name="SHIELD" type="passive"/>
+        <pin num="S6" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Analog_DAC">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Analog_DAC.kicad_sym</uri>
+    </library>
+    <library logical="Battery_Management">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Battery_Management.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="EMPCB.SMAFSTJ.B.HT">
+      <uri>C:\Users\techd\Documents\electronics\Rp2040 wearable dev boards w wireless/libraries/EMPCB.SMAFSTJ.B.HT/EMPCB.SMAFSTJ.B.HT.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_RaspberryPi.kicad_sym</uri>
+    </library>
+    <library logical="MPU-6500">
+      <uri>C:\Users\techd\Documents\electronics\Rp2040 wearable dev boards w wireless/libraries/MPU-6500/MPU-6500.kicad_sym</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="NRF24L01P-R7">
+      <uri>C:/Users/techd/Documents/KiCad/LIB_NRF24L01P-R7/NRF24L01P-R7.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="TPD4E02B04QDQARQ1">
+      <uri>C:/Users/techd/Documents/KiCad/TPD4E02B04QDQARQ1/TPD4E02B04QDQARQ1.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+    <library logical="usb-c usb 2.0">
+      <uri>C:\Users\techd\Documents\electronics\Rp2040 wearable dev boards w wireless/libraries/usb-c/DX07S016JA1R1500.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/ACH0">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="CH0" pintype="input"/>
+    </net>
+    <net code="2" name="/ACH1">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="CH1" pintype="input"/>
+    </net>
+    <net code="3" name="/ACH2">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="CH2" pintype="input"/>
+    </net>
+    <net code="4" name="/ACH3">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="CH3" pintype="input"/>
+    </net>
+    <net code="5" name="/ACH4">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="CH4" pintype="input"/>
+    </net>
+    <net code="6" name="/ACH5">
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="CH5" pintype="input"/>
+    </net>
+    <net code="7" name="/ACH6">
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="CH6" pintype="input"/>
+    </net>
+    <net code="8" name="/ACH7">
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="CH7" pintype="input"/>
+    </net>
+    <net code="9" name="/ADC 1">
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U5" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/ADC 2">
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U5" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/ADC 3">
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U5" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/ADC 4">
+      <node ref="J4" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U5" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/ADC VDD">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U6" pin="16" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="14" name="/ANT 1">
+      <node ref="IC1" pin="12" pinfunction="ANT1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="15" name="/ANT 2">
+      <node ref="IC1" pin="13" pinfunction="ANT2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="16" name="/AUX_CL">
+      <node ref="J4" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="AUX_CL" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/AUX_DA">
+      <node ref="J4" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U7" pin="21" pinfunction="AUX_DA" pintype="unspecified"/>
+    </net>
+    <net code="18" name="/Antenna">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="/CC1">
+      <node ref="J2" pin="3" pinfunction="CC1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="D1-" pintype="bidirectional"/>
+      <node ref="U3" pin="9" pinfunction="NC" pintype="unspecified"/>
+    </net>
+    <net code="20" name="/CC2">
+      <node ref="J2" pin="9" pinfunction="CC2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="D1+" pintype="bidirectional"/>
+      <node ref="U3" pin="10" pinfunction="NC" pintype="unspecified"/>
+    </net>
+    <net code="21" name="/CE">
+      <node ref="IC1" pin="1" pinfunction="CE" pintype="passive"/>
+      <node ref="U5" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/COM">
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U6" pin="11" pinfunction="COM" pintype="input"/>
+    </net>
+    <net code="23" name="/CSN">
+      <node ref="IC1" pin="2" pinfunction="CSN" pintype="passive"/>
+      <node ref="U5" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/DVDD_RADIO">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="19" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="25" name="/DVDD_RP2040">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U5" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U5" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U5" pin="50" pinfunction="DVDD" pintype="passive"/>
+    </net>
+    <net code="26" name="/External ADC SCL {slash} GPIO 21">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U5" pin="37" pinfunction="GPIO25" pintype="bidirectional"/>
+      <node ref="U6" pin="14" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="27" name="/External ADC SDA {slash} GPIO 20">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U5" pin="36" pinfunction="GPIO24" pintype="bidirectional"/>
+      <node ref="U6" pin="15" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/GPIO 0">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/GPIO 1">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/GPIO 2">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/GPIO 3">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/GPIO 4">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/GPIO 5">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/GPIO 6">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/GPIO 7">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/GPIO 8">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U5" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/GPIO 9">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/GPIO 10">
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/GPIO 11">
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U5" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/GPIO 12">
+      <node ref="J3" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/GPIO 13">
+      <node ref="J3" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U5" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/GPIO 14">
+      <node ref="J3" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U5" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/GPIO 16">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="27" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/GPIO 17">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/IMU SCL {slash} GPIO 19">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U5" pin="30" pinfunction="GPIO19" pintype="bidirectional"/>
+      <node ref="U7" pin="23" pinfunction="SCL/SCLK" pintype="unspecified"/>
+    </net>
+    <net code="46" name="/IMU SDA {slash} GPIO 18">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U5" pin="29" pinfunction="GPIO18" pintype="bidirectional"/>
+      <node ref="U7" pin="24" pinfunction="SDA/SDI" pintype="unspecified"/>
+    </net>
+    <net code="47" name="/IREF">
+      <node ref="IC1" pin="16" pinfunction="IREF" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="48" name="/L2-C31">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="input"/>
+    </net>
+    <net code="49" name="/LED_BLUE">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="/LED_GREEN">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="/MISO">
+      <node ref="IC1" pin="5" pinfunction="MISO" pintype="passive"/>
+      <node ref="U5" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="/MOSI">
+      <node ref="IC1" pin="4" pinfunction="MOSI" pintype="passive"/>
+      <node ref="U5" pin="35" pinfunction="GPIO23" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="/PROG">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="PROG" pintype="input"/>
+    </net>
+    <net code="54" name="/QSPI_SCLK">
+      <node ref="U2" pin="6" pinfunction="CLK" pintype="input"/>
+      <node ref="U5" pin="52" pinfunction="QSPI_SCLK" pintype="output"/>
+    </net>
+    <net code="55" name="/QSPI_SD0">
+      <node ref="U2" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+      <node ref="U5" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="/QSPI_SD1">
+      <node ref="U2" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+      <node ref="U5" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="/QSPI_SD2">
+      <node ref="U2" pin="3" pinfunction="IO2" pintype="bidirectional"/>
+      <node ref="U5" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="/QSPI_SD3">
+      <node ref="U2" pin="7" pinfunction="IO3" pintype="bidirectional"/>
+      <node ref="U5" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="/QSPI_SS">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="~{CS}" pintype="input"/>
+      <node ref="U5" pin="56" pinfunction="QSPI_SS" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="/R18-Power_on">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="61" name="/REFin{slash}REFout">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U6" pin="10" pinfunction="REFin/REFout" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="/REGOUT">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="U7" pin="10" pinfunction="REGOUT" pintype="unspecified"/>
+    </net>
+    <net code="63" name="/RUN">
+      <node ref="J3" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U5" pin="26" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="64" name="/SCK">
+      <node ref="IC1" pin="3" pinfunction="SCK" pintype="passive"/>
+      <node ref="U5" pin="34" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="/STAT">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="STAT" pintype="output"/>
+    </net>
+    <net code="66" name="/SW1 ">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="67" name="/SWCLK">
+      <node ref="J3" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U5" pin="24" pinfunction="SWCLK" pintype="output"/>
+    </net>
+    <net code="68" name="/SWD">
+      <node ref="J3" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U5" pin="25" pinfunction="SWD" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="/USB+">
+      <node ref="J2" pin="6" pinfunction="D+" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="D+" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="D2+" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="NC" pintype="unspecified"/>
+    </net>
+    <net code="70" name="/USB-">
+      <node ref="J2" pin="5" pinfunction="D-" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="D-" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="D2-" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="NC" pintype="unspecified"/>
+    </net>
+    <net code="71" name="/USB_R+">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U5" pin="47" pinfunction="USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="/USB_R-">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U5" pin="46" pinfunction="USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="/VBAT">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VBAT" pintype="power_out"/>
+    </net>
+    <net code="74" name="/VBUS">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J2" pin="2" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="75" name="/VDD_PA">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="11" pinfunction="VDD_PA" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="input"/>
+    </net>
+    <net code="76" name="/VI">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="77" name="/VO">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="78" name="/Vmain">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="15" pinfunction="VDD_2" pintype="passive"/>
+      <node ref="IC1" pin="18" pinfunction="VDD_3" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="VDD_1" pintype="passive"/>
+      <node ref="J3" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="J4" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U5" pin="10" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U5" pin="22" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U5" pin="33" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U5" pin="42" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U5" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U5" pin="44" pinfunction="VREG_IN" pintype="power_in"/>
+      <node ref="U5" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U5" pin="49" pinfunction="IOVDD" pintype="passive"/>
+      <node ref="U7" pin="13" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="VDDIO" pintype="power_in"/>
+    </net>
+    <net code="79" name="/XC1">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="10" pinfunction="XC1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="/XC2">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="9" pinfunction="XC2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="Y2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="81" name="/XIN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U5" pin="20" pinfunction="XIN" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="82" name="/XOUT">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U5" pin="21" pinfunction="XOUT" pintype="passive"/>
+    </net>
+    <net code="83" name="/XOUTC">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="84" name="/~{USB BOOT}">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="85" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="14" pinfunction="VSS_2" pintype="passive"/>
+      <node ref="IC1" pin="17" pinfunction="VSS_3" pintype="passive"/>
+      <node ref="IC1" pin="20" pinfunction="VSS_4" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VSS_1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S5" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S6" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J4" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="J6" pin="SH1" pintype="passive"/>
+      <node ref="J6" pin="SH2" pintype="passive"/>
+      <node ref="J6" pin="SH3" pintype="passive"/>
+      <node ref="J6" pin="SH4" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="19" pinfunction="TESTEN" pintype="input"/>
+      <node ref="U5" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="12" pinfunction="A0" pintype="input"/>
+      <node ref="U6" pin="13" pinfunction="A1" pintype="input"/>
+      <node ref="U6" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="11" pinfunction="FSYNC" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="INT" pintype="output"/>
+      <node ref="U7" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="20" pinfunction="RESV" pintype="output"/>
+      <node ref="U7" pin="22" pinfunction="nCS" pintype="unspecified"/>
+      <node ref="U7" pin="9" pinfunction="SDO/ADO" pintype="unspecified"/>
+      <node ref="Y2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="IRQ" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="87" name="unconnected-(IC1-Pad21)">
+      <node ref="IC1" pin="21" pinfunction="THERMAL_PAD" pintype="no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="SBU2" pintype="passive"/>
+    </net>
+    <net code="89" name="unconnected-(J2-Pad10)">
+      <node ref="J2" pin="10" pinfunction="SBU1" pintype="passive"/>
+    </net>
+    <net code="90" name="unconnected-(U7-Pad1)">
+      <node ref="U7" pin="1" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(U7-Pad2)">
+      <node ref="U7" pin="2" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(U7-Pad3)">
+      <node ref="U7" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(U7-Pad4)">
+      <node ref="U7" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(U7-Pad5)">
+      <node ref="U7" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(U7-Pad6)">
+      <node ref="U7" pin="6" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(U7-Pad14)">
+      <node ref="U7" pin="14" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(U7-Pad15)">
+      <node ref="U7" pin="15" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(U7-Pad16)">
+      <node ref="U7" pin="16" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U7-Pad17)">
+      <node ref="U7" pin="17" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U7-Pad19)">
+      <node ref="U7" pin="19" pinfunction="RESV" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>
